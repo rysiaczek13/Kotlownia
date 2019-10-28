@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Arduino\\libraries\\DallasTemperature",
+                "C:\\Users\\rysza\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\rysza\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.2\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Arduino\\libraries\\arduino_75453",
+                "C:\\Arduino\\libraries\\DallasTemperature\\**",
+                "C:\\Arduino\\libraries\\Blynk\\src\\**",
+                "C:\\Arduino\\libraries\\SimpleTimer-master\\**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Arduino\\libraries\\RF24",
+                    "C:\\Arduino\\libraries\\arduino_75453",
+                    "C:\\Arduino\\libraries\\DallasTemperature",
+                    "C:\\Arduino\\libraries\\Blynk\\src",
+                    "C:\\Arduino\\libraries\\SimpleTimer-master"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
