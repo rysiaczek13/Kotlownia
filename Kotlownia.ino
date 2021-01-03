@@ -16,8 +16,8 @@
 
 Adafruit_SSD1306 display(OLED_RESET);
 
-const char* ssid = "domeczek-salon";
-const char* password = "Olineczek2010!";
+const char* ssid = "SSID";
+const char* password = "password";
 char auth[] = "5ecc693b3675476e81f2923c128b44be";
 
 float maxTemp = 45.0;
